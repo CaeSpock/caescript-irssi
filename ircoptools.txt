@@ -1,0 +1,45 @@
+CaeScript 1.0 - http://www.caespock.org/ircsoftware/
+
+List of commands available in IRCopTools:
+
+/ac [Host] <- Akills for clones
+/afl [Host] <- Akills for flood
+/afn [Host] <- Akills for trying to use a forbidden nick
+/afs [Host] <- Akills for flooding services
+/ahp [Host] <- Akills for trying to hack passwords
+/ahp2 [Host] <- Akills for trying to hack passwords via email
+/aif [Host] <- Akills for flooding with INFOs
+/ahs [Host] <- Akills for harassment
+/an [Nick] <- Sends a warning notice due to abusive entry in the access list
+/akill [Time in minutes] [Host] [Reason] <- sets an akill
+/ams [Host] <- Akills for mass invices
+/amw [Host] <- Akills for mass advertising web
+/anc [Host] <- Akills for nick chasing
+/aps [Host] <- Akills for flooding services with pings
+/asa [Host] <- Akills for services abuse
+/asi [Host] <- Akills for broken identify script
+/ats [Host] <- Akills for sending trojans
+/atssp [Host] <- Akills for sending trojans (spanish)
+/chatops [Message] <- sends a chatops
+/globops [Message] <- sends a globops
+/helpserv [Command] <- sends a command to helpserv
+/kfl [Nick] <- kills for flooding
+/kflsp [Nick] <- kills for flooding (spanish)
+/kh [Nick] <- kills for harassment
+/khsp [Nick] <- kills for harassment (spanish)
+/kline [Time in minutes] [Host] [Reason] <- sets a kline
+/km [Nick] <- kills for mass invites
+/kmsp [Nick] <- kills for mass invites (spanish)
+/locops [Message] <- sends a locops
+/mass [Flags, masks, etc] <- performs a /who
+/massr [Flags, masks, etc] <- performs a /whor
+/rootserv [Command] <- sends a command to rootserv
+/sajoin [Channel] <- perform a SAJoin
+/saopme <- Ops you in the channel (if you are +a)
+/setos [Service] <- Set OS command to [Service]
+/snotice [Text] <- sends a server wide notice
+/sping [Server] <- checks latency between current server and [server]
+/wm [Nick] <- sends a warning message for trying to hack passwords
+
+Please edit the file, you can configure default akill times and change the messages.
+

@@ -1,0 +1,29 @@
+CaeScript 1.0 - http://www.caespock.org/ircsoftware/
+
+List of commands available in CaeScript:
+
+/nickserv [Command] <- Sends a command to NickServ
+/chanserv [Command] <- Sends a command to ChanServ
+/memoserv [Command] <- Sends a command to MemoServ
+/helpserv [Command] <- Sends a command to HelpServ
+/ircops <- lists ircops in the channel
+/clones <- lists clones in the channel
+/byeall <- sends a bye message to all channels
+/beer <- sends a beer to the query nick or to the channel
+/cinta [Text] <- wraps a text 
+/csopme <- asks ChanServ to op you
+/hora <- Show the current date/time 
+/date <- Show the current date/time 
+/time <- Show the current date/time 
+/o [Nick] <- Gives +o to Nick
+/ops [Text] <- sends a Op Notice
+/onotice [Text] <- sends a Op Notice
+/opnotice [Text] <- sends a Op Notice
+/opsv [Text] <- sends a Op+Voiced Notice
+/opv [Text] <- sends a Op+Voiced Notice
+/opvnotice [Text] <- sends a Op+Voiced Notice
+/so [Nick] <- Removes op from Nick
+/sv [Nick] <- Removes voice from Nick
+/v [Nick] <- Gives +v to Nick
+/ver <- Shows CaeScript's version
+

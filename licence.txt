@@ -1,0 +1,7 @@
+CaeScript/IRCopTools License
+
+1. This script has a freeware license of free use. You can use this script for the time you want, as long as you respect and don't modify any part of the authorship information. Respect the complete and the individual authorship.
+2. This script is provided as is and how it is. The author takes no charge of any damage of any kind. Using this software you agree to the terms established here.
+3. The distribution of this script is limited to distribute the executable file, which garantizes that the file has not being modified.
+4. The licence of CaeScript or IRCopTools is diferent from the mIRC or the irssi licence.
+
